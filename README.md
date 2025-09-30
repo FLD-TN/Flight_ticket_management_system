@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-# Flight_ticket_management_system
-=======
+
 # TEAM DEVELOPMENT STRUCTURE
 
 | No. | Name               | Account       | Roles   | DateStart | DateEnd    |
