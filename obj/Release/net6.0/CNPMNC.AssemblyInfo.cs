@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CNPMNC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d0be19ed0a9b10eee875b8c8895b7ba8ed9d30df")]
 [assembly: System.Reflection.AssemblyProductAttribute("CNPMNC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CNPMNC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
